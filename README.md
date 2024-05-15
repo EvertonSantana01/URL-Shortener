@@ -21,3 +21,16 @@ Este projeto é um encurtador de URLs construído com Node.js e Express, utiliza
 Para executar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
+
+git clone <URL_DO_REPOSITORIO>
+
+2. Instale as dependências:
+
+npm install
+
+3. Inicie o servidor:
+
+npm run dev
+
+
+A aplicação estará disponível em `http://localhost:5000`.
